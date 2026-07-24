@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chada Douzi</h1>
 
 <h3 align="center">
-Computer Engineering Student • IoT & Robotics • Artificial Intelligence • Deep Learning • Full-Stack Developer
+Computer Engineering Undergraduate | IoT & Robotics Engineer | AI Enthusiast | Embedded Systems | Full-Stack Developer
 </h3>
 
 <p align="center">
-Passionate about designing intelligent software solutions that combine
-Artificial Intelligence, Deep Learning, Internet of Things (IoT),
-Embedded Systems and Full-Stack Development.
+Designing intelligent systems by combining Artificial Intelligence, Internet of Things,
+Robotics, Embedded Systems and Modern Software Engineering.
 </p>
 
 <p align="center">
@@ -16,7 +15,7 @@ Embedded Systems and Full-Stack Development.
 <img src="https://img.shields.io/github/followers/chada-douzi?label=Followers&style=for-the-badge"/>
 </a>
 
-<img src="https://img.shields.io/badge/Computer%20Engineering-Student-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-IoT%20%7C%20AI%20%7C%20Robotics-blue?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
 
@@ -26,115 +25,225 @@ Embedded Systems and Full-Stack Development.
 
 # 👩‍💻 About Me
 
-🎓 I am a Computer Engineering student specializing in **Internet of Things (IoT) and Robotics**.
+🎓 I am a **Computer Engineering undergraduate** specializing in:
 
-I enjoy building intelligent systems that combine software engineering, embedded systems and artificial intelligence.
-
-My interests include:
-
-- 🤖 Artificial Intelligence
-- 🧠 Deep Learning
-- 📊 Machine Learning
 - 🌐 Internet of Things (IoT)
+- 🤖 Robotics
+- 🧠 Artificial Intelligence
 - ⚙️ Embedded Systems
-- 📱 Mobile Development
-- 💻 Full-Stack Development
-- ☁️ Cloud Computing
 
-I am passionate about learning new technologies and developing innovative solutions that improve people's lives.
+I enjoy designing and developing intelligent solutions that combine:
+
+- Software Engineering
+- Artificial Intelligence
+- Connected Devices
+- Embedded Programming
+- Cloud Technologies
+- Full-Stack Applications
+
+
+My goal is to build innovative and scalable systems that solve real-world problems and improve people's lives.
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Technical Skills
 
 ## 💻 Programming Languages
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp"/>
+
 </p>
+
 
 ---
 
-## 🎨 Frontend
+## 🎨 Frontend Development
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=html,css,angular,react"/>
+
 </p>
+
+
+Technologies:
+
+- Angular
+- React
+- TypeScript
+- HTML5
+- CSS3
+- Responsive Web Design
+
 
 ---
 
-## ⚙️ Backend
+## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+
 </p>
+
+
+Technologies:
+
+- Node.js
+- Express.js
+- Spring Boot
+- REST APIs
+- JWT Authentication
+- Backend Architecture
+
 
 ---
 
 ## 📱 Mobile Development
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=react"/>
+
 </p>
 
-React Native (Expo)
+
+Technologies:
+
+- React Native
+- Expo
+- Mobile UI Development
+- Firebase Integration
+
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Databases & Cloud
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+
 </p>
+
+
+Technologies:
+
+- MongoDB
+- MySQL
+- Firebase Authentication
+- Firebase Realtime Database
+- Cloud Integration
+
 
 ---
 
-## 🤖 Artificial Intelligence
+# 🤖 Artificial Intelligence & Data Science
+
+Areas of interest:
 
 - Machine Learning
 - Deep Learning
+- Computer Vision
 - Data Analysis
-- Predictive Analytics
+- Predictive Models
+- AI-based Applications
+
+
+Technologies:
+
+- Python
+- Scikit-learn
+- TensorFlow / Keras
+- OpenCV
+- Pandas
+- NumPy
+
 
 ---
 
-## 🔌 Embedded Systems & IoT
+# 🔌 IoT & Embedded Systems
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+
+</p>
+
+
+Technologies:
 
 - ESP32
 - Arduino
-- MQTT
-- Embedded Programming
+- Embedded C/C++
 - Sensors Integration
+- MQTT Communication
+- IoT Architectures
+- Real-Time Monitoring Systems
+
 
 ---
 
-## 🛠️ Development Tools
+# 🛠️ Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,postman"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,postman,docker"/>
+
 </p>
+
+
+Tools:
+
+- Git & GitHub
+- Visual Studio Code
+- IntelliJ IDEA
+- Maven
+- Postman
+- Docker
+
 
 ---
 
-# 📌  Featured Projects & Engineering Work
+# 📌 Featured Projects
+
 
 ## 🏠 Smart Care House
 
-AI-powered smart home platform designed for accessibility, home automation and intelligent monitoring.
+AI & IoT based smart home platform designed to improve accessibility,
+security and assistance for elderly people and people with disabilities.
+
+### Main Features
+
+- 🗣️ AI Voice Assistant
+- 👁️ Object Detection
+- 🚪 Smart Door with Face Recognition
+- 🔐 Secure Access System
+- 📱 Mobile Application
+- 🌐 IoT Monitoring Dashboard
+
 
 ### Technologies
 
-React Native • Firebase • Node.js • ESP32 • MQTT • Artificial Intelligence
+ESP32 • MQTT • Firebase • React Native • Node.js • Artificial Intelligence
 
-🔗 Repository
+
+🔗 Repository:
 
 https://github.com/chada-douzi/smart-care-house
+
 
 ---
 
 ## 🤖 Robot Arena Simulator
 
-A real-time robot combat simulator built with Java 21 and JavaFX, demonstrating clean architecture, multithreading, object-oriented programming and software design patterns.
+A real-time robot combat simulator developed with Java 21 and JavaFX.
+
+The project demonstrates advanced Object-Oriented Programming,
+software architecture principles and design patterns.
+
 
 ### Highlights
 
@@ -143,89 +252,150 @@ A real-time robot combat simulator built with Java 21 and JavaFX, demonstrating 
 - Factory Pattern
 - Observer Pattern
 - Builder Pattern
-- JavaFX
-- Maven
-- JUnit Testing
 - Multithreading
+- JavaFX Interface
+- Maven Build System
+- Unit Testing
 
-🔗 Repository
+
+### Technologies
+
+Java 21 • JavaFX • Maven • JUnit
+
+
+🔗 Repository:
 
 https://github.com/chada-douzi/robot-arena-simulator
+
 
 ---
 
 ## 🚌 Smart Bus Dashboard
 
-A real-time intelligent transportation dashboard integrating IoT devices, data visualization and Machine Learning prediction.
+An intelligent transportation monitoring platform combining IoT,
+real-time visualization and Machine Learning.
+
+
+### Features
+
+- Real-time sensor monitoring
+- MQTT communication
+- Data visualization
+- Traffic analysis
+- Machine Learning prediction
+
 
 ### Technologies
 
 Node.js • MongoDB • MQTT • Python • Machine Learning • Socket.IO
 
-🔗 Repository
+
+🔗 Repository:
 
 https://github.com/chada-douzi/smart-bus-dashboard
 
+
 ---
 
-## 💪 Monumental Fitness (Mobile)
+## 💪 Monumental Fitness Mobile
 
-A full-stack fitness and e-commerce mobile application featuring authentication, workout management, shopping cart and order management.
+A full-stack fitness and e-commerce mobile application.
+
+
+### Features
+
+- User authentication
+- Workout management
+- Product catalog
+- Shopping cart
+- Order management
+
 
 ### Technologies
 
-React Native • Node.js • Express.js • MongoDB • JWT
+React Native • Expo • Node.js • Express.js • MongoDB • JWT
 
-🔗 Repository
+
+🔗 Repository:
 
 https://github.com/chada-douzi/monumental-fitness
 
+
 ---
 
-## 🌐 Monumental Fitness (Web)
+## 🌐 Monumental Fitness Web
 
-A responsive web platform dedicated to fitness and wellness, combining workout management and e-commerce.
+A responsive fitness and wellness web platform.
+
+
+### Features
+
+- User management
+- Fitness programs
+- E-commerce functionalities
+- Database management
+
 
 ### Technologies
 
 HTML5 • CSS3 • JavaScript • PHP • MySQL
 
-🔗 Repository
+
+🔗 Repository:
 
 https://github.com/chada-douzi/mini-project
 
----
 
+---
 
 # 🎯 Areas of Interest
 
 - Artificial Intelligence
 - Deep Learning
 - Machine Learning
-- Internet of Things (IoT)
 - Robotics
+- Internet of Things
 - Embedded Systems
 - Software Engineering
 - Full-Stack Development
 - Mobile Development
 - Cloud Computing
+- System Architecture
+
 
 ---
 
 # 🌱 Currently Learning
 
 - Spring Boot
+- Microservices Architecture
 - Docker
-- Microservices
 - Cloud Computing
-- Software Architecture
+- DevOps Fundamentals
+- Advanced Java Backend Development
+- REST API Design
 - System Design
 - Advanced Deep Learning
+
+
+---
+
+# 🧩 Engineering Skills
+
+- Object-Oriented Programming (OOP)
+- Software Design Patterns
+- Clean Architecture
+- Database Design
+- API Development
+- IoT Communication Protocols
+- Embedded Programming
+- Problem Solving
+- Agile Development
+
 
 ---
 
 # 🌍 Languages
-
 
 🇹🇳 Arabic — Native Language
 
@@ -233,27 +403,32 @@ https://github.com/chada-douzi/mini-project
 
 🇬🇧 English — Professional Proficiency
 
+
 ---
 
 # 📫 Contact
 
- Email
+📧 Email:
 
 **douzichada@gmail.com**
 
- GitHub
+
+💻 GitHub:
 
 https://github.com/chada-douzi
 
- LinkedIn
+
+🔗 LinkedIn:
 
 Coming Soon...
 
+
 ---
 
-# 💡 Philosophy
+# 💡 Engineering Philosophy
 
-> "Technology is most powerful when it creates innovative solutions that improve people's lives."
+> "Technology is most powerful when it creates intelligent solutions that improve people's lives."
+
 
 ---
 
