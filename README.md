@@ -200,12 +200,8 @@ https://github.com/chada-douzi/mini-project
 
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chada-douzi&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chada-douzi&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chada-douzi&theme=tokyonight&row=1"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=chada-douzi&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=chada-douzi&layout=compact&theme=tokyonight"/>
 </p>
 ---
 
