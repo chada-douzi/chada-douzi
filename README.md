@@ -199,11 +199,8 @@ https://github.com/chada-douzi/mini-project
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chada-douzi&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chada-douzi&layout=compact&theme=tokyonight"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chada-douzi&show_icons=true&theme=github_dark"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chada-douzi&layout=compact&theme=github_dark"/>
 </p>
 
 ---
