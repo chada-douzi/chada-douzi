@@ -116,7 +116,7 @@ React Native (Expo)
 
 ---
 
-# 📌 Featured Projects
+# 📌  Featured Projects & Engineering Work
 
 ## 🏠 Smart Care House
 
@@ -196,14 +196,6 @@ https://github.com/chada-douzi/mini-project
 
 ---
 
-# 📊 GitHub Statistics
-
-
-<p align="center">
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chada-douzi&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chada-douzi&layout=compact&theme=tokyonight"/>
-</p>
----
 
 # 🎯 Areas of Interest
 
@@ -234,25 +226,26 @@ https://github.com/chada-douzi/mini-project
 
 # 🌍 Languages
 
-🇹🇳 Arabic — Native
 
-🇫🇷 French — Professional Working Proficiency
+🇹🇳 Arabic — Native Language
 
-🇬🇧 English — Professional Working Proficiency
+🇫🇷 French — Professional Proficiency
+
+🇬🇧 English — Professional Proficiency
 
 ---
 
 # 📫 Contact
 
-📧 Email
+ Email
 
 **douzichada@gmail.com**
 
-🐙 GitHub
+ GitHub
 
 https://github.com/chada-douzi
 
-💼 LinkedIn
+ LinkedIn
 
 Coming Soon...
 
