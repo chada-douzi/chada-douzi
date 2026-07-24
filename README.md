@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Chada Douzi</h1>
 
 <h3 align="center">
-Computer Engineering Student • IoT & Robotics • Artificial Intelligence • Full-Stack Developer
+Computer Engineering Student • IoT & Robotics • Artificial Intelligence • Deep Learning • Full-Stack Developer
 </h3>
 
 <p align="center">
-Passionate about designing intelligent and innovative solutions by combining
+Passionate about designing intelligent software solutions that combine
 Artificial Intelligence, Deep Learning, Internet of Things (IoT),
-Embedded Systems and Full-Stack Software Engineering.
+Embedded Systems and Full-Stack Development.
 </p>
 
 <p align="center">
 
 <a href="https://github.com/chada-douzi">
-<img src="https://img.shields.io/github/followers/chada-douzi?label=Followers&style=for-the-badge">
+<img src="https://img.shields.io/github/followers/chada-douzi?label=Followers&style=for-the-badge"/>
 </a>
 
-<img src="https://img.shields.io/badge/Computer%20Engineering-Student-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Computer%20Engineering-Student-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
 
 </p>
 
@@ -26,77 +26,79 @@ Embedded Systems and Full-Stack Software Engineering.
 
 # 👩‍💻 About Me
 
-🎓 Computer Engineering student specializing in **Internet of Things (IoT) and Robotics**.
+🎓 I am a Computer Engineering student specializing in **Internet of Things (IoT) and Robotics**.
 
-I enjoy building real-world software solutions that combine:
+I enjoy building intelligent systems that combine software engineering, embedded systems and artificial intelligence.
 
-- Artificial Intelligence
-- Deep Learning
-- Embedded Systems
-- Internet of Things (IoT)
-- Full-Stack Development
-- Mobile Applications
-- Machine Learning
+My interests include:
 
-I am always looking for opportunities to learn new technologies and build impactful projects.
+- 🤖 Artificial Intelligence
+- 🧠 Deep Learning
+- 📊 Machine Learning
+- 🌐 Internet of Things (IoT)
+- ⚙️ Embedded Systems
+- 📱 Mobile Development
+- 💻 Full-Stack Development
+- ☁️ Cloud Computing
+
+I am passionate about learning new technologies and developing innovative solutions that improve people's lives.
 
 ---
 
 # 🚀 Tech Stack
 
-## Programming Languages
+## 💻 Programming Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp"/>
-
 </p>
 
 ---
 
-## Frontend
+## 🎨 Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=html,css,angular,react"/>
-
 </p>
 
 ---
 
-## Backend
+## ⚙️ Backend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
-
 </p>
 
 ---
 
-## Mobile Development
+## 📱 Mobile Development
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react"/>
-
 </p>
 
 React Native (Expo)
 
 ---
 
-## Databases
+## 🗄️ Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
 </p>
 
 ---
 
-## Embedded Systems & IoT
+## 🤖 Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- Predictive Analytics
+
+---
+
+## 🔌 Embedded Systems & IoT
 
 - ESP32
 - Arduino
@@ -106,20 +108,10 @@ React Native (Expo)
 
 ---
 
-## Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Data Analysis
-
----
-
-## Development Tools
+## 🛠️ Development Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,postman"/>
-
 </p>
 
 ---
@@ -128,79 +120,79 @@ React Native (Expo)
 
 ## 🏠 Smart Care House
 
-AI-powered smart home platform designed to improve accessibility and home automation.
+AI-powered smart home platform designed for accessibility, home automation and intelligent monitoring.
 
 ### Technologies
 
 React Native • Firebase • Node.js • ESP32 • MQTT • Artificial Intelligence
 
-Repository
+🔗 Repository
 
-https://github.com/chada-douzi/smart-care-house.git
+https://github.com/chada-douzi/smart-care-house
 
 ---
 
 ## 🤖 Robot Arena Simulator
 
-A real-time robot combat simulator developed with Java 21 and JavaFX using Clean Architecture, Design Patterns and Multithreading.
+A real-time robot combat simulator built with Java 21 and JavaFX, demonstrating clean architecture, multithreading, object-oriented programming and software design patterns.
 
 ### Highlights
 
 - MVC Architecture
 - Strategy Pattern
-- Observer Pattern
 - Factory Pattern
+- Observer Pattern
 - Builder Pattern
-- Multithreading
 - JavaFX
 - Maven
-- JUnit
+- JUnit Testing
+- Multithreading
 
-Repository
+🔗 Repository
 
-https://github.com/chada-douzi/robot-arena-simulator.git
+https://github.com/chada-douzi/robot-arena-simulator
 
 ---
 
 ## 🚌 Smart Bus Dashboard
 
-An intelligent transportation dashboard integrating IoT devices, real-time monitoring and Machine Learning prediction.
+A real-time intelligent transportation dashboard integrating IoT devices, data visualization and Machine Learning prediction.
 
 ### Technologies
 
 Node.js • MongoDB • MQTT • Python • Machine Learning • Socket.IO
 
-Repository
+🔗 Repository
 
-https://github.com/chada-douzi/smart-bus-dashboard.git
+https://github.com/chada-douzi/smart-bus-dashboard
 
 ---
 
 ## 💪 Monumental Fitness (Mobile)
 
-A full-stack fitness and e-commerce mobile application featuring authentication, workout management and online shopping.
+A full-stack fitness and e-commerce mobile application featuring authentication, workout management, shopping cart and order management.
 
 ### Technologies
 
-React Native • Express.js • MongoDB • JWT
+React Native • Node.js • Express.js • MongoDB • JWT
 
-Repository
+🔗 Repository
 
-https://github.com/chada-douzi/monumental-fitness.git
+https://github.com/chada-douzi/monumental-fitness
 
 ---
 
-## 🌐 Monumental Fitness:mini project (Web)
+## 🌐 Monumental Fitness (Web)
 
-A responsive fitness and e-commerce web platform developed using PHP and MySQL.
+A responsive web platform dedicated to fitness and wellness, combining workout management and e-commerce.
 
 ### Technologies
 
 HTML5 • CSS3 • JavaScript • PHP • MySQL
 
-Repository
+🔗 Repository
 
-https://github.com/chada-douzi/mini-project.git
+https://github.com/chada-douzi/mini-project
 
 ---
 
@@ -208,9 +200,9 @@ https://github.com/chada-douzi/mini-project.git
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=chada-douzi&show_icons=true&theme=github_dark&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chada-douzi&show_icons=true&theme=tokyonight"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chada-douzi&layout=compact&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chada-douzi&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -237,9 +229,9 @@ https://github.com/chada-douzi/mini-project.git
 - Docker
 - Microservices
 - Cloud Computing
-- Deep Learning
 - Software Architecture
 - System Design
+- Advanced Deep Learning
 
 ---
 
@@ -255,27 +247,30 @@ https://github.com/chada-douzi/mini-project.git
 
 # 📫 Contact
 
-GitHub
+📧 Email
+
+**douzichada@gmail.com**
+
+🐙 GitHub
 
 https://github.com/chada-douzi
 
+💼 LinkedIn
 
-Email
-
-douzichada@gmail.com
+Coming Soon...
 
 ---
 
 # 💡 Philosophy
 
-> "Technology has the greatest impact when it solves real-world problems and improves people's lives."
+> "Technology is most powerful when it creates innovative solutions that improve people's lives."
 
 ---
 
 <p align="center">
 
-Thanks for visiting my GitHub profile ⭐
+⭐ Thanks for visiting my GitHub profile!
 
-Feel free to explore my repositories and connect with me!
+Feel free to explore my repositories and connect with me.
 
 </p>
